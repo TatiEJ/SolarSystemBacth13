@@ -3,6 +3,12 @@ package company;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello solar system!");
+        solarSystem inception = new solarSystem();
+        inception.Sun=1;
+        inception.Moon=4;
+        inception.Planets=2;
+
+        System.out.println("the basic structure id ready");
+        
     }
 }
