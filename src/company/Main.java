@@ -16,6 +16,11 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+        planetx1 fr=new planetx1();
+        fr.color="red";
+        fr.radius="23232323";
+        fr.size="23232km";
     }
     }
 
