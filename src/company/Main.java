@@ -17,12 +17,19 @@ public class Main {
         omaro.radius=1234455;
         omaro.color="pink";
 
+
 //    planet2
         planet2 superwomen = new planet2();
         superwomen.size="766585857km";
         superwomen.name="pliea";
         superwomen.color="green";
 
+
+
+        planetx1 fr=new planetx1();
+        fr.color="red";
+        fr.radius="23232323";
+        fr.size="23232km";
 
     }
     }
